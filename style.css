@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.hero1{
+    display: flex;
+    background-color: #1F2937;
+    margin: 0;
+    height: 350px;
+    flex-direction: column;
+    color: white;
+}
+
+.header {
+    display: flex;
+    background-color: #1F2937;
+    padding: 20px;
+    align-items: center;
+    margin: 0 300px;
+}
+
+.links {
+    display: flex;
+    margin-left: auto;
+    gap: 20px;
+    font-size: 20px;
+}
+
+a {
+    color: lightslategray;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+#logo {
+    width: 120px;
+    height: auto;
+}
+
+.introduction {
+    margin: 0 300px;
+}
