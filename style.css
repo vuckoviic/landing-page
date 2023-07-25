@@ -137,3 +137,27 @@ a:link {
     font-size: 18px;
     color: #888787;
 }
+
+.quoteSection {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    height: 300px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.quoteAuthor {
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: 600px;
+}
