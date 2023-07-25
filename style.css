@@ -120,14 +120,3 @@ a:link {
     flex-direction: row;
     gap: 50px;
 }
-
-.info {
-    display: flex;
-    flex-direction: column;
-}
-
-.OSP {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-}
